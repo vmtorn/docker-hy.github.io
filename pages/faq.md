@@ -8,7 +8,7 @@ order: 6
 
 ## How do I sign up for the course? ##
 
-WELL HELLO There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course.
+WELL HELLO MELO There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course.
 
 ## How many credits are available? ##
 
@@ -39,5 +39,6 @@ Yes, the certificate is available to all who pass the course before the deadline
 ## How do I extend my 2020 progress? ##
 
 You can simply submit the completed parts again. 
+
 
 If you left 1 exercise not completed, mark one exercise not completed in the 2021 version. If you did all of the exercises mark all as done in the 2021 course.
