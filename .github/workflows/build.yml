@@ -17,4 +17,3 @@ jobs:
       with:
         api-key: ${{ secrets.HEROKU_API_KEY }}
         app-name: "ex31-vmtorn"
-        email: "vtorniko@gmail.com"

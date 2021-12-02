@@ -8,7 +8,7 @@ order: 6
 
 ## How do I sign up for the course? ##
 
-WELL WELL HELLO MELO YELO There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course.
+WELL sdfsdfWELL HELLO MELO YELO There's no requirement to sign up for the course until after you've completed the exercises and wish to end your course.
 
 ## How many credits are available? ##
 
